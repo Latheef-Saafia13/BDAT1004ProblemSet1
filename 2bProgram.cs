@@ -1,4 +1,6 @@
-﻿using System;
+#b. Does 'Supercalifragilisticexpialidocious' contain 'ice' as a substring? 
+    
+using System;
 class substring
 {
     static void Main(string[] args)
