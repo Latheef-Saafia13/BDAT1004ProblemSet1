@@ -1,4 +1,7 @@
-﻿using System;
+#2)write (and evaluate) C# expressions that answer these questions:
+#a. How many letters are there in 'Supercalifragilisticexpialidocious'?
+
+using System;
 
 public class Countthestring
 {
