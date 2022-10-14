@@ -1,5 +1,5 @@
 ﻿using System;
-public class AreaOfTriangle
+public class Rectangle
 {
     public static void Main()
     {
